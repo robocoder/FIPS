@@ -24,11 +24,10 @@ why bother with FIPS?
 
 - you have a lot of unconverted historical data that uses FIPS PUB 10-4 codes
 - there isn't a one-to-one mapping between FIPS PUB 10-4 and ISO 3166-2 codes
-- it isn't obsolete -- Geopolitical Codes continues to be
 
 What data is available?
 =======================
-The data is (currently) maintained in a tab-separated-value (TSV) file.
+The data is (currently) maintained in a tab-separated-value (TSV) file, ``fips.txt``.
 
 A *country* row consists of the following fields:
 
